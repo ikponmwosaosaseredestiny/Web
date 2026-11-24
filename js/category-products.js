@@ -57,12 +57,12 @@ const projects = {
                 "This project involves the simulation of air blast effects on a composite sandwich structure using Abaqus software. The study focuses on understanding the structural response and failure mechanisms under blast loading conditions. The simulation results provide insights into the performance of composite materials in extreme environments, aiding in the design of safer and more resilient structures. ",
 
             images: [
-                "image/composite-air-blast/image6.png",
-                "image/composite-air-blast/image4.png",
-                "image/composite-air-blast/image5.png",
-                "image/composite-air-blast/image1.png",
-                "image/composite-air-blast/image2.png",
-                "image/composite-air-blast/image3.png",
+                "Image/composite-air-blast/image6.png",
+                "Image/composite-air-blast/image4.png",
+                "Image/composite-air-blast/image5.png",
+                "Image/composite-air-blast/image1.png",
+                "Image/composite-air-blast/image2.png",
+                "Image/composite-air-blast/image3.png",
             ],
             text: "View Project",
             link: "https://drive.google.com/file/d/1uuyz92dKkFt0dfA7m_ZOcuGaa8UhBZv_/view?usp=sharing"
@@ -79,11 +79,11 @@ const projects = {
                 "This project involves the simulation of bending effects on a composite sandwich structure using ANSYS software. The study focuses on understanding the structural response and failure mechanisms under bending loading conditions. The simulation results provide insights into the performance of composite materials under bending, aiding in the design of safer and more resilient structures. ",
 
             images: [
-                "image/composite-bending/image2.png",
-                "image/composite-bending/image4.png",
-                "image/composite-bending/image3-0-deg.png",
-                "image/composite-bending/image3-90-deg.png",
-                "image/composite-bending/image1.png",
+                "Image/composite-bending/image2.png",
+                "Image/composite-bending/image4.png",
+                "Image/composite-bending/image3-0-deg.png",
+                "Image/composite-bending/image3-90-deg.png",
+                "Image/composite-bending/image1.png",
             ],
             text: "View Project",
             link: "https://drive.google.com/file/d/1YMZCBszCVW6srzinXoBp5-VFFnMjcuGz/view?usp=sharing"
@@ -100,13 +100,13 @@ const projects = {
                 `This project involves the simulation of bending effects on a FRP foam-core sandwich structure using Abaqus software. The study focuses on understanding the structural response and failure mechanisms under bending loading conditions. The simulation results provide insights into the performance of FRP foam-core sandwich structure under bending, aiding in the design of safer and more resilient structures that utilizes FRP foam-core sandwich structure.`,
 
             images: [
-                "image/comp-bending-abaqus/image1.png",
-                "image/comp-bending-abaqus/image2.png",
-                "image/comp-bending-abaqus/image3.png",
-                "image/comp-bending-abaqus/image4.png",
-                "image/comp-bending-abaqus/image5.png",
-                "image/comp-bending-abaqus/image6.png",
-                "image/comp-bending-abaqus/image7.png",
+                "Image/comp-bending-abaqus/image1.png",
+                "Image/comp-bending-abaqus/image2.png",
+                "Image/comp-bending-abaqus/image3.png",
+                "Image/comp-bending-abaqus/image4.png",
+                "Image/comp-bending-abaqus/image5.png",
+                "Image/comp-bending-abaqus/image6.png",
+                "Image/comp-bending-abaqus/image7.png",
             ],
             text: "View Project",
             link: "https://drive.google.com/file/d/1FpNt2lbKgpVk6ElYc6ZwGGPxQCbOyRd7/view?usp=sharing"
@@ -123,9 +123,9 @@ const projects = {
                 `A finite element simulation of projectile impact on an aluminium plate using Abaqus to analyse its dynamic response, deformation and damage under high-velocity impact loading. The simulation provides insights into impact-resistant structural design, with relevance to civil engineering applications such as protective barriers, bridge components, structural cladding, blast-resistant systems and infrastructure exposed to accidental impact or extreme loading.`,
 
             images: [
-                "image/bullet impact test/img1.png",
-                "image/bullet impact test/img2.png",
-                "image/bullet impact test/img3.png",
+                "Image/bullet impact test/img1.png",
+                "Image/bullet impact test/img2.png",
+                "Image/bullet impact test/img3.png",
             ],
             text: " ",
             link: ""
@@ -141,11 +141,11 @@ const projects = {
                 `Finite element simulations of crack initiation and propagation in a plate and concrete beam using the Extended Finite Element Method (XFEM), examining fracture behaviour and damage evolution under loading. The simulations demonstrate the application of fracture mechanics and computational modelling in assessing structural integrity, predicting failure mechanisms and informing the design of damage-resistant structures, particularly in concrete infrastructure and structural components subjected to complex loading conditions.`,
 
             images: [
-                "image/Crack Growth 1/img1.png",
-                "image/Crack Growth 1/img2.png",
-                "image/XFEM Crack growth of Al Plate/img1.png",
-                "image/XFEM Crack growth of Al Plate/img2.png",
-                "image/XFEM Crack growth of Al Plate/img3.png",
+                "Image/Crack Growth 1/img1.png",
+                "Image/Crack Growth 1/img2.png",
+                "Image/XFEM Crack growth of Al Plate/img1.png",
+                "Image/XFEM Crack growth of Al Plate/img2.png",
+                "Image/XFEM Crack growth of Al Plate/img3.png",
             ],
             text: " ",
             link: ""
@@ -161,11 +161,11 @@ const projects = {
                 `A classical elasticity analysis of a plate subjected to loading to evaluate normal stress distribution and stress concentration around a hole. The study examines how geometric discontinuities influence stress distribution and structural behaviour, providing fundamental insights into stress concentration, structural design, material efficiency and the integrity of structural components commonly encountered in civil, mechanical and aerospace engineering.`,
 
             images: [
-                "image/Plate-Hole Analysis/img1.png",
-                "image/Plate-Hole Analysis/img2.png",
-                "image/Plate-Hole Analysis/img3.png",
-                "image/Plate-Hole Analysis/img4.png",
-                "image/Plate-Hole Analysis/img5.png",
+                "Image/Plate-Hole Analysis/img1.png",
+                "Image/Plate-Hole Analysis/img2.png",
+                "Image/Plate-Hole Analysis/img3.png",
+                "Image/Plate-Hole Analysis/img4.png",
+                "Image/Plate-Hole Analysis/img5.png",
             ],
             text: " ",
             link: ""
@@ -182,9 +182,9 @@ const projects = {
                 `A numerical simulation of a re-entrant auxetic structure under compressive loading to investigate its deformation behaviour, stress distribution and mechanical response. The analysis explores the unique negative Poisson's ratio characteristics of auxetic materials and their potential for energy absorption, impact resistance and enhanced structural performance. These properties offer promising applications in civil engineering, including protective infrastructure, lightweight structural components, seismic-resistant systems and impact-resistant construction materials.`,
 
             images: [
-                "image/auxetic compression/img1.png",
-                "image/auxetic compression/img2.png",
-                "image/auxetic compression/img3.png",
+                "Image/auxetic compression/img1.png",
+                "Image/auxetic compression/img2.png",
+                "Image/auxetic compression/img3.png",
             ],
             text: " ",
             link: ""
@@ -201,9 +201,9 @@ const projects = {
                 `A numerical simulation of a hexagonal honeycomb structure under compressive loading to investigate its deformation mechanisms, stress distribution, stiffness and energy absorption capacity. The analysis provides insights into the mechanical performance of cellular structures and their potential for developing lightweight, high-strength and energy-absorbing structural systems, with applications in bridge components, protective infrastructure, sandwich panels and other weight-efficient civil engineering structures.`,
 
             images: [
-                "image/Hex honeycomb compression/img1.png",
-                "image/Hex honeycomb compression/img2.png",
-                "image/Hex honeycomb compression/img3.png",
+                "Image/Hex honeycomb compression/img1.png",
+                "Image/Hex honeycomb compression/img2.png",
+                "Image/Hex honeycomb compression/img3.png",
             ],
             text: " ",
             link: ""
@@ -219,9 +219,9 @@ const projects = {
                 `RC Beam modelled using explicit dynamics. Failed elements or cracked and crushed elements are deleted from the model as the analysis is running. This is a high impact test of concrete.`,
 
             images: [
-                "image/RCC 3-point bending/img1.png",
-                "image/RCC 3-point bending/img2.png",
-                "image/RCC 3-point bending/img3.png",
+                "Image/RCC 3-point bending/img1.png",
+                "Image/RCC 3-point bending/img2.png",
+                "Image/RCC 3-point bending/img3.png",
             ],
             text: " ",
             link: ""
@@ -237,11 +237,11 @@ const projects = {
                 `The four-point bending test is essential for understanding the structural performance of reinforced concrete beams. It ensures that beams can safely resist bending loads, control cracking, and perform reliably in real-world structures such as buildings and bridges.`,
 
             images: [
-                "image/RCC 4-point bending/img1.png",
-                "image/RCC 4-point bending/img2.png",
-                "image/RCC 4-point bending/img3.png",
-                "image/RCC 4-point bending/img4.png",
-                "image/RCC 4-point bending/img5.png",
+                "Image/RCC 4-point bending/img1.png",
+                "Image/RCC 4-point bending/img2.png",
+                "Image/RCC 4-point bending/img3.png",
+                "Image/RCC 4-point bending/img4.png",
+                "Image/RCC 4-point bending/img5.png",
             ],
             text: " ",
             link: ""
@@ -258,10 +258,10 @@ const projects = {
                 `A numerical investigation of a unidirectional composite ply using Representative Volume Element (RVE) modelling and macromechanical analysis to evaluate its effective elastic properties and overall mechanical response. The modelling approach provides insights into the relationship between constituent material properties, fibre`,
 
             images: [
-                "image/RVE Modelling-Composites/img1.png",
-                "image/RVE Modelling-Composites/img2.png",
-                "image/Macro-mechanics of UD ply/img1.png",
-                "image/Macro-mechanics of UD ply/img2.png",
+                "Image/RVE Modelling-Composites/img1.png",
+                "Image/RVE Modelling-Composites/img2.png",
+                "Image/Macro-mechanics of UD ply/img1.png",
+                "Image/Macro-mechanics of UD ply/img2.png",
             ],
             text: " ",
             link: ""
@@ -283,17 +283,17 @@ const projects = {
                 "This project involves the modelling of a heritage building using Revit software for subsequent Computational Fluid Dynamics (CFD) analysis. The study focuses on creating an accurate digital representation of historic building geometry from LiDAR scan data. The Revit model serves as a basis for performing CFD simulations to analyze wind-induced pressures on the building for structural safety assessment. The results provide insights into the building's performance under various environmental conditions, aiding in the preservation and optimization of heritage structures.",
 
             images: [
-                "image/design/revit/HB/LiDar scan.png",
-                "image/design/revit/HB/plan-view.png",
-                "image/design/revit/HB/north-west elevation.png",
-                "image/design/revit/HB/south-east elevation.png",
-                "image/design/revit/HB/image1.png",
-                "image/design/revit/HB/image2.png",
-                "image/design/revit/HB/img5.jpeg",
-                "image/design/revit/HB/img6.png",
-                "image/design/revit/HB/img7.png",
-                "image/design/revit/HB/img8.png",
-                "image/design/revit/HB/img9.png",
+                "Image/design/revit/HB/LiDar scan.png",
+                "Image/design/revit/HB/plan-view.png",
+                "Image/design/revit/HB/north-west elevation.png",
+                "Image/design/revit/HB/south-east elevation.png",
+                "Image/design/revit/HB/image1.png",
+                "Image/design/revit/HB/image2.png",
+                "Image/design/revit/HB/img5.jpeg",
+                "Image/design/revit/HB/img6.png",
+                "Image/design/revit/HB/img7.png",
+                "Image/design/revit/HB/img8.png",
+                "Image/design/revit/HB/img9.png",
 
             ],
             text: " ",
@@ -310,17 +310,17 @@ const projects = {
                 "Architectural modelling and structural design of a secondary school comprising 15 classrooms, 3 offices and 12 WC facilities within a 28 × 22 m building footprint. The project involved architectural drafting and design development using AutoCAD, BIM modelling in Revit, and structural modelling, analysis and design using ETABS.",
 
             images: [
-                "image/New school building/image1.jpg",
-                "image/New school building/Realistic Three-Story School Courtyard.png",
-                "image/New school building/ground floor.png",
-                "image/New school building/first floor.png",
-                "image/New school building/second floor.png",
-                "image/New school building/STE-B&C.png",
-                "image/New school building/STE-beam 2.png",
-                "image/New school building/STE-slab.png",
-                "image/New school building/STE-C&Stair.png",
-                "image/New school building/STE-F-Lay.png",
-                "image/New school building/STE-F.png",
+                "Image/New school building/image1.jpg",
+                "Image/New school building/Realistic Three-Story School Courtyard.png",
+                "Image/New school building/ground floor.png",
+                "Image/New school building/first floor.png",
+                "Image/New school building/second floor.png",
+                "Image/New school building/STE-B&C.png",
+                "Image/New school building/STE-beam 2.png",
+                "Image/New school building/STE-slab.png",
+                "Image/New school building/STE-C&Stair.png",
+                "Image/New school building/STE-F-Lay.png",
+                "Image/New school building/STE-F.png",
 
             ],
             text: " ",
@@ -337,15 +337,15 @@ const projects = {
                 "Architectural modelling and structural analysis and design of a Nigerian university hostel building comprising 24 rooms, 4 kitchens and 16 WC facilities within a 40 × 8 m footprint. The project involved architectural drafting using AutoCAD, BIM-based modelling in Revit and structural modelling, analysis and design of reinforced concrete (RCC) elements using ETABS. ",
 
             images: [
-                "image/Hostel Building/image-1.jpg",
-                "image/Hostel Building/image-1-1.png",
-                "image/Hostel Building/image-2.jpg",
-                "image/Hostel Building/image2-2.png",
-                "image/Hostel Building/ground floor.png",
-                "image/Hostel Building/first floor.png",
-                "image/Hostel Building/second floor.png",
-                "image/Hostel Building/third floor.png",
-                "image/Hostel Building/A2.png"
+                "Image/Hostel Building/image-1.jpg",
+                "Image/Hostel Building/image-1-1.png",
+                "Image/Hostel Building/image-2.jpg",
+                "Image/Hostel Building/image2-2.png",
+                "Image/Hostel Building/ground floor.png",
+                "Image/Hostel Building/first floor.png",
+                "Image/Hostel Building/second floor.png",
+                "Image/Hostel Building/third floor.png",
+                "Image/Hostel Building/A2.png"
 
             ],
             text: " ",
@@ -362,12 +362,12 @@ const projects = {
                 "A pile foundation design project for a 20 × 30 m swamp area, involving the application of British Standard (BS) design provisions to develop a suitable deep foundation system for challenging ground conditions. The project focused on foundation modelling, structural analysis and design using CSI SAFE, with consideration of the load-transfer mechanisms and structural requirements associated with pile-supported foundations. Such designs are essential for ensuring foundation stability, minimising excessive settlement and providing reliable support for infrastructure constructed on weak, waterlogged and low-bearing-capacity soils.",
 
             images: [
-                "image/design/analysis/pile-3d.png",
-                "image/design/analysis/pile-layout.png",
-                "image/design/analysis/pile-analysis.png",
-                "image/design/analysis/pile-design1.png",
-                "image/design/analysis/pile-design2.png",
-                "image/design/analysis/pile-design3.png",
+                "Image/design/analysis/pile-3d.png",
+                "Image/design/analysis/pile-layout.png",
+                "Image/design/analysis/pile-analysis.png",
+                "Image/design/analysis/pile-design1.png",
+                "Image/design/analysis/pile-design2.png",
+                "Image/design/analysis/pile-design3.png",
 
             ],
             text: " ",
@@ -384,10 +384,10 @@ const projects = {
                 "A wind turbine foundation design and modelling project using Autodesk Revit, focusing on the development and digital representation of foundation systems for renewable energy infrastructure. The project highlights the role of foundation engineering in supporting wind turbine structures under complex loading conditions, including self-weight, wind-induced forces and dynamic effects. Reliable foundation design is essential for ensuring structural stability, serviceability and long-term performance of wind energy installations, contributing to the development of sustainable and resilient energy infrastructure.",
 
             images: [
-                "image/WT Foundation/img1.png",
-                "image/WT Foundation/img2.png",
-                "image/WT Foundation/img3.png",
-                "image/WT Foundation/img4.png",
+                "Image/WT Foundation/img1.png",
+                "Image/WT Foundation/img2.png",
+                "Image/WT Foundation/img3.png",
+                "Image/WT Foundation/img4.png",
 
             ],
             text: " ",
@@ -405,11 +405,11 @@ const projects = {
 
             images: [
 
-                "image/Steel Design 1/img2.png",
-                "image/Steel Design 1/img3.png",
-                "image/Steel Design 1/img4.png",
-                "image/Steel Design 1/img5.png",
-                "image/Steel Design 1/img1.png",
+                "Image/Steel Design 1/img2.png",
+                "Image/Steel Design 1/img3.png",
+                "Image/Steel Design 1/img4.png",
+                "Image/Steel Design 1/img5.png",
+                "Image/Steel Design 1/img1.png",
 
             ],
             text: " ",
@@ -426,12 +426,12 @@ const projects = {
                 "Structural analysis and design of a steel workshop building with a 24 × 15 m footprint, using ETABS in accordance with relevant Eurocode provisions. The project involved structural modelling, evaluation of design loads and assessment of steel members to ensure adequate strength, stability and serviceability. The design emphasises the efficient use of structural steel in developing functional, durable and economical industrial buildings, with applications in industrial facilities, manufacturing plants and other steel-framed infrastructure.",
 
             images: [
-                "image/Steel design/img1.png",
-                "image/Steel design/img2.png",
-                "image/Steel design/img3.png",
-                "image/Steel design/img4.png",
-                "image/Steel design/img5.png",
-                "image/Steel design/img6.png",
+                "Image/Steel design/img1.png",
+                "Image/Steel design/img2.png",
+                "Image/Steel design/img3.png",
+                "Image/Steel design/img4.png",
+                "Image/Steel design/img5.png",
+                "Image/Steel design/img6.png",
 
             ],
             text: " ",
@@ -449,16 +449,16 @@ const projects = {
             category: "Python, MATLAB",
             description: "Research on sustainable concrete materials.",
             images: [
-                "image/ML/img9.png",
-                "image/ML/img10.png",
-                "image/ML/img1.png",
-                "image/ML/img2.png",
-                "image/ML/img3.png",
-                "image/ML/img4.png",
-                "image/ML/img5.png",
-                "image/ML/img6.png",
-                "image/ML/img7.png",
-                "image/ML/img8.png",
+                "Image/ML/img9.png",
+                "Image/ML/img10.png",
+                "Image/ML/img1.png",
+                "Image/ML/img2.png",
+                "Image/ML/img3.png",
+                "Image/ML/img4.png",
+                "Image/ML/img5.png",
+                "Image/ML/img6.png",
+                "Image/ML/img7.png",
+                "Image/ML/img8.png",
 
             ],
             text: "View Github",
