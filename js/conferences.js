@@ -1,6 +1,6 @@
 const certifications = [
     {
-        image: "/Image/certifications/SN-Certification.jpg",
+        image: "Image/certifications/SN-Certification.jpg",
         title: "Environmental Intelligence: How Sensing Technologies Are Advancing Sustainability",
         issuer: "Springer Nature ",
         date: "October 2026 : (online)",
@@ -11,7 +11,7 @@ const certifications = [
     },
 
     {
-        image: "/Image/certifications/istruct.jpg",
+        image: "Image/certifications/istruct.jpg",
         title: "Annual Academics Conference 2026",
         issuer: "The Institution of Structural Engineers (IStructE)",
         date: "September 2026 : (online)",
@@ -21,7 +21,7 @@ const certifications = [
         ]
     },
     {
-        image: "/Image/certifications/aci.jpg",
+        image: "Image/certifications/aci.jpg",
         title: "2026 24 Hours of Concrete Knowledge",
         issuer: "AMERICAN CONCRETE INSTITUTE (ACI)",
         date: "July 2026 : (online)",
@@ -32,7 +32,7 @@ const certifications = [
     },
 
     {
-        image: "/Image/certifications/enc.jpg",
+        image: "Image/certifications/enc.jpg",
         title: "Decarbonization in practice: solving Scope 1, 2 & 3 challenges",
         issuer: "E&C Group",
         date: "May 2026 : (webinar)",

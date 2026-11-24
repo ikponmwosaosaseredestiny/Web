@@ -1,6 +1,6 @@
 const certifications = [
     {
-        image: "/Image/certifications/UD-LCA.jpg",
+        image: "Image/certifications/UD-LCA.jpg",
         title: "Life Cycle Assessment ",
         issuer: "UDEMY • Joris Simaitis",
         date: "November 2026",
@@ -13,7 +13,7 @@ const certifications = [
         ]
     },
     {
-        image: "/Image/certifications/UD-FEA.jpg",
+        image: "Image/certifications/UD-FEA.jpg",
         title: "Finite Element Analysis of Composite Structures ",
         issuer: "UDEMY • Prof. Aleksandr Cherniaev",
         date: "November 2026",
@@ -29,7 +29,7 @@ const certifications = [
     },
 
     {
-        image: "/Image/certifications/udemy-mom.jpg",
+        image: "Image/certifications/udemy-mom.jpg",
         title: "Mechanics of Materials: Exploring Structural Mechanics",
         issuer: "UDEMY • Prof. Mohamed Noureldin",
         date: "August 2026",
@@ -43,7 +43,7 @@ const certifications = [
     },
 
     {
-        image: "/Image/certifications/continuum.jpg",
+        image: "Image/certifications/continuum.jpg",
         title: "Continuum Mechanics",
         issuer: "YouTube • Dr. Cleyton",
         date: "July 2026",
@@ -56,7 +56,7 @@ const certifications = [
         ]
     },
     {
-        image: "/Image/certifications/construction-management-maryLand.jpg",
+        image: "Image/certifications/construction-management-maryLand.jpg",
         title: "The Construction Management Industry and Profession",
         issuer: "Coursera • University of Maryland",
         date: "November 2025",
@@ -70,7 +70,7 @@ const certifications = [
     },
 
     {
-        image: "/Image/certifications/sustainable-construction-maryland.jpg",
+        image: "Image/certifications/sustainable-construction-maryland.jpg",
         title: "Sustainable Construction Management",
         issuer: "Coursera • University of Maryland",
         date: "November 2025",
@@ -84,7 +84,7 @@ const certifications = [
     },
 
     {
-        image: "/Image/certifications/understaing-research-uniLondon.jpg",
+        image: "Image/certifications/understaing-research-uniLondon.jpg",
         title: "Understanding Research Methods",
         issuer: "Coursera • University of London",
         date: "October 2025",
@@ -98,7 +98,7 @@ const certifications = [
     },
 
     {
-        image: "/Image/certifications/building-materials-health-pearsons.jpg",
+        image: "Image/certifications/building-materials-health-pearsons.jpg",
         title: "Building Materials and Human Health",
         issuer: "Coursera • The New School Pearsons",
         date: "November 2025",
@@ -113,7 +113,7 @@ const certifications = [
 
 
     {
-        image: "/Image/certifications/FEM-coursera-project.jpg",
+        image: "Image/certifications/FEM-coursera-project.jpg",
         title: "FEM - Linear, Nonlinear Analysis & Post-Processing",
         issuer: "Coursera • Project Network",
         date: "October 2025",
@@ -127,7 +127,7 @@ const certifications = [
     },
 
     {
-        image: "/Image/certifications/FEM-coursera-project.jpg",
+        image: "Image/certifications/FEM-coursera-project.jpg",
         title: "FEM - Linear, Nonlinear Analysis & Post-Processing",
         issuer: "Coursera • Project Network",
         date: "October 2025",
