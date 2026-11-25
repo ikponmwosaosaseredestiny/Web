@@ -10,8 +10,8 @@ const categories = [
 
     {
         id: "DV-ML",
-        name: "Data Visualization & Machine Learning",
-        description: "Computational Analysis, Data analysis & visualization, and machine learning for structural engineering applications using Python and MATLAB",
+        name: "Data Analysis, Visualization and Machine Learning",
+        description: "Data analysis, visualization, and machine learning for structural engineering applications using Python and MATLAB",
         image: "Image/ML/model-plot.png",
         projectCount: "N/A"
     },
