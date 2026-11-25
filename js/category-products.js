@@ -445,9 +445,9 @@ const projects = {
 
         {
             id: 1,
-            title: "Data Visualization & Machine Learning",
+            title: "Computational Analysis, Data Analysis, Visualization & Machine Learning",
             category: "Python, MATLAB",
-            description: "Research on sustainable concrete materials.",
+            description: "Computational analysis, data analysis, visualization and machine learning using Python and MATLAB programming for structural engineering applications.",
             images: [
                 "Image/ML/img9.png",
                 "Image/ML/img10.png",
