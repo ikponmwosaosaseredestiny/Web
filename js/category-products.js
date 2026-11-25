@@ -123,9 +123,9 @@ const projects = {
                 `A finite element simulation of projectile impact on an aluminium plate using Abaqus to analyse its dynamic response, deformation and damage under high-velocity impact loading. The simulation provides insights into impact-resistant structural design, with relevance to civil engineering applications such as protective barriers, bridge components, structural cladding, blast-resistant systems and infrastructure exposed to accidental impact or extreme loading.`,
 
             images: [
-                "Image/bullet impact test/img1.png",
-                "Image/bullet impact test/img2.png",
-                "Image/bullet impact test/img3.png",
+                "Image/Bullet impact test/img1.png",
+                "Image/Bullet impact test/img2.png",
+                "Image/Bullet impact test/img3.png",
             ],
             text: " ",
             link: ""
@@ -141,8 +141,8 @@ const projects = {
                 `Finite element simulations of crack initiation and propagation in a plate and concrete beam using the Extended Finite Element Method (XFEM), examining fracture behaviour and damage evolution under loading. The simulations demonstrate the application of fracture mechanics and computational modelling in assessing structural integrity, predicting failure mechanisms and informing the design of damage-resistant structures, particularly in concrete infrastructure and structural components subjected to complex loading conditions.`,
 
             images: [
-                "Image/Crack Growth 1/img1.png",
-                "Image/Crack Growth 1/img2.png",
+                "Image/Crack growth 1/img1.png",
+                "Image/Crack growth 1/img2.png",
                 "Image/XFEM Crack growth of Al Plate/img1.png",
                 "Image/XFEM Crack growth of Al Plate/img2.png",
                 "Image/XFEM Crack growth of Al Plate/img3.png",
