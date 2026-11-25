@@ -6,102 +6,102 @@
 const galleryImages = [
 
     {
-        image: "image/Industry Experience/img1.jpg",
+        image: "Image/Industry Experience/img1.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img2.jpg",
+        image: "Image/Industry Experience/img2.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img3.jpg",
+        image: "Image/Industry Experience/img3.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img4.jpg",
+        image: "Image/Industry Experience/img4.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img5.jpg",
+        image: "Image/Industry Experience/img5.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img6.jpg",
+        image: "Image/Industry Experience/img6.jpg",
         title: " ",
         description: " "
     },
     // {
-    //     image: "image/Industry Experience/img7.jpg",
+    //     image: "Image/Industry Experience/img7.jpg",
     //     title: " ",
     //     description: " "
     // },
     {
-        image: "image/Industry Experience/img8.jpg",
+        image: "Image/Industry Experience/img8.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img9.jpg",
+        image: "Image/Industry Experience/img9.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img10.jpg",
+        image: "Image/Industry Experience/img10.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img11.jpg",
+        image: "Image/Industry Experience/img11.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img12.jpg",
+        image: "Image/Industry Experience/img12.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img13.jpg",
+        image: "Image/Industry Experience/img13.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img14.jpg",
+        image: "Image/Industry Experience/img14.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img15.jpg",
+        image: "Image/Industry Experience/img15.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img16.jpg",
+        image: "Image/Industry Experience/img16.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img17.jpg",
+        image: "Image/Industry Experience/img17.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img18.jpg",
+        image: "Image/Industry Experience/img18.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img19.jpg",
+        image: "Image/Industry Experience/img19.jpg",
         title: " ",
         description: " "
     },
     {
-        image: "image/Industry Experience/img20.jpg",
+        image: "Image/Industry Experience/img20.jpg",
         title: " ",
         description: " "
     },
