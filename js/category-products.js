@@ -302,7 +302,7 @@ const projects = {
         {
             id: 2,
 
-            title: "Secondary School Building Analysis and Design.",
+            title: "Secondary School Building Design.",
 
             category: "Revit Modelling, Structural Analysis & Design, RCC",
 
@@ -329,7 +329,7 @@ const projects = {
         {
             id: 3,
 
-            title: "School Hostel Building Analysis and Design.",
+            title: "School Hostel Building Design.",
 
             category: "Revit Modelling, Structural Analysis & Design, RCC",
 
@@ -354,7 +354,7 @@ const projects = {
         {
             id: 4,
 
-            title: "Pile FOundation Design",
+            title: "Pile Foundation Design",
 
             category: "Geotechnical Engineering, Foundation Design",
 
