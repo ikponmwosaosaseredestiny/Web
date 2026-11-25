@@ -22,7 +22,7 @@ const categoryDescriptions = {
         "Linear & Nonlinear Analysis using the ABAQUS and ANSYS software",
 
     "DV-ML":
-        "Computational Analysis, Data analysis, visualization and machine learning for structural engineering applications using Python and MATLAB",
+        "Data analysis, visualization and machine learning for structural engineering applications using Python and MATLAB",
 
     "design-analysis":
         "Historical Building Information Modelling (HBIM), structural analysis and design of RCC and Steel structures. *** All AUTOCAD, REVIT, ETABS, SAFE Files, complete drawings and detailing will be available on request. *** TO BE CONTINUED… THANK YOU. ",
@@ -445,9 +445,9 @@ const projects = {
 
         {
             id: 1,
-            title: "Computational Analysis, Data Analysis, Visualization & Machine Learning",
+            title: "Data Analysis, Visualization and Machine Learning",
             category: "Python, MATLAB",
-            description: "Computational analysis, data analysis, visualization and machine learning using Python and MATLAB programming for structural engineering applications.",
+            description: "Data analysis, visualization and machine learning using Python and MATLAB programming for structural engineering applications.",
             images: [
                 "Image/ML/img9.png",
                 "Image/ML/img10.png",
