@@ -12,7 +12,7 @@ const categories = [
         id: "DV-ML",
         name: "Data Visualization & Machine Learning",
         description: "Computational Analysis, Data analysis & visualization, and machine learning for structural engineering applications using Python and MATLAB",
-        image: "image/ML/model-plot.png",
+        image: "Image/ML/model-plot.png",
         projectCount: "N/A"
     },
 
@@ -20,7 +20,7 @@ const categories = [
         id: "design-analysis",
         name: "Structural Analysis and Design",
         description: "Historical Building Information Modelling (HBIM), Reinforced concrete and Steel analysis and Design",
-        image: "image/design/revit/HB/image1.png",
+        image: "Image/design/revit/HB/image1.png",
         projectCount: "N/A"
     },
 
