@@ -50,7 +50,11 @@ const certifications = [
 
         skills: [
             "Preliminary Mathematics",
-            "Stree and strain",
+            "Stress, strain and displacements in two and three dimensions",
+            "Constitutive equations",
+            "Governing equations of elasticity and simple solutions",
+            "Strain energy aand virtual work",
+            "Theories of failure"
         ]
     },
     {
