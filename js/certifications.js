@@ -44,15 +44,13 @@ const certifications = [
 
     {
         image: "Image/certifications/continuum.jpg",
-        title: "Continuum Mechanics",
+        title: "Introduction to Continuum Mechanics",
         issuer: "YouTube • Dr. Cleyton",
         date: "July 2026",
 
         skills: [
-            "Behavior & Mechanical Properties of Materials",
-            "Axially Loaded Members, Thermal effects and strain energy",
-            "Stresses in Beams",
-            "Analysis of Stress and Strain; Principal Stresses, Maximum Shear Stresses, Mohr’s Circle for Plane Stress"
+            "Preliminary Mathematics",
+            "Stree and strain",
         ]
     },
     {
@@ -111,21 +109,6 @@ const certifications = [
         ]
     },
 
-
-    {
-        image: "Image/certifications/FEM-coursera-project.jpg",
-        title: "FEM - Linear, Nonlinear Analysis & Post-Processing",
-        issuer: "Coursera • Project Network",
-        date: "October 2025",
-
-        skills: [
-            "Finite element methods",
-            "Linear analysis",
-            "Nonlinear analysis",
-
-        ]
-    },
-
     {
         image: "Image/certifications/FEM-coursera-project.jpg",
         title: "FEM - Linear, Nonlinear Analysis & Post-Processing",
@@ -154,7 +137,8 @@ const certifications = [
             "Pandas",
             "NumPy",
             "Matplotlib",
-            "Data Cleaning"
+            "Data Cleaning",
+               "Seaborn",
         ]
     },
 
